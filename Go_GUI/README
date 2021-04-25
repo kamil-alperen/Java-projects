@@ -1,0 +1,4 @@
+javac *.java
+To run the program:
+  java GUI
+  
