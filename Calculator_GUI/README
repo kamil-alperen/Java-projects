@@ -1,0 +1,3 @@
+javac *.java
+To run the program:
+  java HesapMakinesi | java GelismisHesapMakinesi | java Bitwise
