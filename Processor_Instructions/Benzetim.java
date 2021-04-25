@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-// To run : java Benzetim program.txt ornek-config.txt
+
 public class Benzetim {
 	static List<InstructMemory> instruct_m;
 	static Instruction ins = new Instruction(0,"");
