@@ -1,0 +1,3 @@
+javac *.java
+To run the program:
+  java Main
