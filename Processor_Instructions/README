@@ -1,2 +1,0 @@
-javac *.java
-To run the program : java Benzetim program.txt ornek-config.txt
