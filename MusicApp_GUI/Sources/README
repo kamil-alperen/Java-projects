@@ -2,4 +2,4 @@ To compile :
   javac *.java
 To run :
   java Main
-Image and audio files in the Resources directory must be uploaded to run the java files.
+Image and audio files in the Resources directory must be loaded to run the java files.
